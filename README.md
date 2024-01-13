@@ -1,6 +1,6 @@
 
 <p>Lista de tarefas em react + vite com barra de pesquisa e filtros</p>
-<h1 align="center">📖: To do List </h1>
+<h1 align="center">📖 To do List </h1>
 
 
 ## :books: Funcionalidades
@@ -8,7 +8,7 @@
 Lista de tarefas com barra de pesquisa e filtros.
 
 ## :wrench: Tecnologias utilizadas
-*ReactJs
+*ReactJs <br/>
 *Vite
 
 ## :rocket: Rodando o projeto
